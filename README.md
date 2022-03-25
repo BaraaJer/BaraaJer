@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Bara Jerjawi
 - 👀 I’m interested in Student Software Development Position
-- 🌱 I’m currently learning Mathematics and Computer Science at The Hebrew University Of Jerusalem
+- 🌱 I’m currently learning Mathematics and Computer Science at The Hebrew University of Jerusalem
 - 📫 How to reach me : baraajerjawi@gmail.com , https://www.linkedin.com/in/barajerjawi/
 
 <!---
